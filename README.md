@@ -1,5 +1,8 @@
 # blivedm
 
+**AG99 定制版本**　murphys7017 为 AG99 桌宠维护的修改保存在 [`codex/astrbot-http-dependencies` 分支](https://github.com/murphys7017/blivedm/tree/codex/astrbot-http-dependencies)。该分支的 README 记录了与上游的具体差异。 [上游项目](https://github.com/xfgryujk/blivedm)
+
+
 Python获取bilibili直播弹幕的库，使用WebSocket协议，支持web端和B站直播开放平台两种接口
 
 [协议解释](https://open-live.bilibili.com/document/657d8e34-f926-a133-16c0-300c1afc6e6b)
